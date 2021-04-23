@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anishpathak
-- 👀 I’m interested in creating good UIs, front-end development
+- 👀 I’m interested in creating good UIs & working on front-end development
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at https://www.linkedin.com/in/anishpathak12
